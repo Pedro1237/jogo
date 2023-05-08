@@ -1,0 +1,10 @@
+var escola = document.querySelector(".escola");
+escola.textContent = "Colégio 3d";
+var turma = document.querySelector(".turma");
+turma.textContent = "5º período";
+var ano = document.querySelector(".ano");
+ano.textContent = "2023";
+var nome = document.querySelector(".nome");
+nome.textContent = "Kui Shai Chang";
+var matéria = document.querySelector(".matéria");
+matéria.textContent = "Pw(Programação Web) e LTP(Linguagem Técnica de Programação)";
